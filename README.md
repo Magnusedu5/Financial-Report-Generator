@@ -2,7 +2,7 @@
 
 **Candidate:** Magnus Edu  
 **Position:** Software Intern - Kokoodi  
-**Submission Date:** October 21, 2025
+**Submission Date:** October 20, 2025
 
 ---
 
@@ -347,6 +347,6 @@ GitHub: https://github.com/Magnusedu5
 
 ---
 
-**Submission Date:** Wednesday, October 21, 2025  
+**Submission Date:** Monday, October 20, 2025  
 **Submitted By:** Magnus Edu  
 **Position:** Software Intern - Kokoodi
