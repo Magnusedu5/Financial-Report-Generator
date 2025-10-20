@@ -9,6 +9,7 @@
 ## 🚀 Live Demo
 
 **Live Application:** https://magnusedu5.github.io/Financial-Report-Generator/
+
 **GitHub Repository:** https://github.com/Magnusedu5/Financial-Report-Generator
 ---
 
