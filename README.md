@@ -382,6 +382,6 @@ GitHub: https://github.com/Magnusedu5
 
 ---
 
-**Submission Date:** Wednesday, October 21, 2025  
+**Submission Date:** Tuesday, October 21, 2025  
 **Submitted By:** Magnus Edu  
 **Position:** Software Intern - Kokoodi
