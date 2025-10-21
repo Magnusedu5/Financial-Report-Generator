@@ -159,6 +159,41 @@ using DocumentFormat.OpenXml.Wordprocessing;
 
 **File:** `ReportGenerator.cs`
 
+## Running the C# Backend
+
+### Prerequisites
+- [.NET SDK 6.0+](https://dotnet.microsoft.com/download) installed
+
+### Steps to Run
+
+1. Navigate to the project root directory
+2. Restore dependencies:
+```bash
+   dotnet restore ReportGenerator.csproj
+```
+
+3. Run the application:
+```bash
+   dotnet run --project ReportGenerator.csproj
+```
+
+4. The application will generate a Word document:
+```
+   Report successfully created: GeneratedReport_PL_[timestamp].docx
+```
+
+### Testing with Different Parameters
+
+Edit the `Main` method in `ReportGenerator.cs` to test different scenarios:
+```csharp
+// Example: Generate Balance Sheet for different client
+string reportPath = CreateSimpleReport(
+    clientName: "Your Client Name",
+    reportType: "Balance Sheet",  // or "P&L" or "Cash Flow"
+    reportingYear: 2024
+);
+```
+
 ---
 
 ### Part 3: Architectural Explanation
